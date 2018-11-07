@@ -3,7 +3,7 @@ layout: post
 title: Fc Barcelona vs Inter Milan
 ---
 
-(/image/malcom.jpg)
+![Malcom photo](/image/malcom.jpg)
 
 ## Match Preview
 
