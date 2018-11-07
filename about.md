@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Barca fan and I am doing this for part of my school project! I have at least been liking Barca since I came to the United States. I also love to play soccer and it has become one of my all time thing to do! Soccer is a beautiful and enjoyable game ever!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a website blog about Fc Barcelona. It will contain their matches review, upcoming games, schedule, etc. I hope you like it!
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+ sanga8738@aurorak12.org
