@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: Champion League Group B 
 ---
@@ -7,7 +7,7 @@ title: Champion League Group B
 
 ## What place is Barca in the Group?
 
-Currently, Barca number 1 in group B! Barca currently have 10 points with no Loss! Just below Barca is Inter Milan with 7 points then Tottenham with 4 points and in the last place is PSV with 1 points! Barca is doing a great job in the champion league and I hope they soon walk out of the field with the champion league trophy! Keet it up Barca!
+Currently, Barca number 1 in group B! Barca currently have 10 points with no Loss! Just below Barca is Inter Milan with 7 points then Tottenham with 4 points and in the last place is PSV with 1 points! Barca is doing a fanstastic job in the champion league and I hope they soon walk out of the field with the champion league trophy! Keet it up Barca!
 
 ## NEXT CHAMPION LEAGUE GAMES
 
