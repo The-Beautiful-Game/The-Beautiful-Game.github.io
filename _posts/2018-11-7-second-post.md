@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Champion League Group B 
 ---
