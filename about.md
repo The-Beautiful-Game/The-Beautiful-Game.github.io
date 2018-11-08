@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Barca fan and I am doing this for part of my school project! I have at least been liking Barca since I came to the United States. I also love to play soccer and it has become one of my all time thing to do! Soccer is a beautiful and enjoyable game ever!
+I am a Barca fan and I am doing this for part of my school project! I have at least been liking Barca since I came to the United States. I also love to play soccer and it has become one of my favorite all time thing to do! Soccer is a beautiful and enjoyable game ever!
 
 ### More Information
 
