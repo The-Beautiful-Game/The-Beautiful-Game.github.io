@@ -15,7 +15,7 @@ Currently, Barca number 1 in group B! Barca currently have 10 points with no Los
 
 ![Psv vs Barca](/images/Psv.jpg)
 
-Can Barca for defeats PSV 4-0 again like the last time they played against each other? PSV against Barca might be an easy game for Barca but who knows what might end up happening. All our job is to sit on the couch and enjoy the game!
+Can Barca defeats PSV 4-0 again like the last time they played against each other? PSV against Barca might be an easy game for Barca but who knows what might end up happening. All our job is to sit on the couch and enjoy the game!
 
 
 ### December 11- Tottenham Spurs vs Barcelona
